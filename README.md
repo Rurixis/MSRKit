@@ -1,6 +1,6 @@
 # MSRKit
 
-A toolkit for **calling** kernel functions and **mapping** drivers **via** a ROP chain through a wrmsr primitive in a vulnerable driver (`AmdTools64.sys`).
+A tool for **calling** kernel functions and **mapping** drivers **via** a ROP chain through a wrmsr primitive in a vulnerable driver (`AmdTools64.sys`).
 
 ## How it works
 
