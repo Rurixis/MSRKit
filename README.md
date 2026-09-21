@@ -80,6 +80,7 @@ CFG is disabled (`/guard:cf-`). Stack cookies (`/GS`) are enabled.
 - Full support for all Windows 10 and 11 builds
 - Compatible with KPTI
 - No HVCI support (HVCI must be disabled)
+- Support PnP / Non PnP Drivers
 
 ## Limitations
 
